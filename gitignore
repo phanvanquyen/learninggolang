@@ -1,4 +1,4 @@
-.idea
-go.mod
-go.sum
-home.exe
+/.idea
+/go.mod
+/go.sum
+/home.exe
